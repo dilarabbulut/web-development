@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8"> <!-- Türkçe karakterler için -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Benim Web Sitem</title> <!-- Tarayıcı sekmesi başlığı -->
+</head>
+<body>
+    
+    <!-- Ad ve Soyad başlık alanı -->
+    <h1>Dilara Bozbulut</h1>
+
+    <!-- Alt başlık Hakkımda alanı -->
+    <h2>Hakkımda</h2>
+
+    <!-- Paragraf içerisinde kendini tanıtma alanı -->
+    <p>
+        Merhaba, ben Dilara. Yazılım geliştirme, web teknolojileri ve bilgisayar alanında çalışıyorum.  
+        Boş zamanlarımda kitap okumayı, yeni şeyler öğrenmeyi ve tasarım yapmayı seviyorum.  
+    </p>
+</body>
+</html>
